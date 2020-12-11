@@ -1,4 +1,8 @@
-# HCIN720
+# HCIN720 Contributors
+* Yogeshwar Jadhav
+* Varun Vivek Vennavalli
+* Rahul Jaiswal
+* Ismail Sharief
 # Final Project Electromagnetic Sensing
 # This Branch Contain following files
 # Laser Cutting
